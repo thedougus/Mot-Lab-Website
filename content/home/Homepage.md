@@ -22,11 +22,11 @@ subtitle = "Department of Psychology - Humboldt State University - Arcata, CA"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "yellow"
+  # color = "NavyBlue"
   
   # Background gradient.
-  gradient_start = "White"
-  gradient_end = "ForestGreen"
+  gradient_start = "ForestGreen"
+  gradient_end = "LightGreen"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/media/`.
@@ -36,7 +36,7 @@ subtitle = "Department of Psychology - Humboldt State University - Arcata, CA"
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
-  text_color_light = false
+  text_color_light = true
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -54,38 +54,20 @@ subtitle = "Department of Psychology - Humboldt State University - Arcata, CA"
 
 We are based in the intersection of developmental psychology, motivation, and education. Broadly, we study how students overcome various challenges in secondary and post-secondary education as they pursue and persist in educational goals. We focus on specific skills and strategies students use to attain difficult goals, like being the first in their family to go to college. Our lab is guided by students’ capacity for resilience and change as co-producers of their development
 
-[design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
-
 [Principal Investigator - Brandilynn Villarreal, Ph.D.](https://psychology.humboldt.edu/people/brandilynn-villarreal)
-
-[design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
-  
 Dr. Villarreal is a lifespan developmental psychologist with research interests in motivation and educational goal pursuit. She studies adolescents and young adults as they navigate the transition into adulthood, particularly through higher education. She has a special interest in motivational and self-regulatory strategies used by first-generation, low-income, and traditionally underrepresented students in academia including, but not limited to, Latinx, African-American, and Native American students.
 
+Partnerships & Projects
+Research projects for the 2020-2021 academic year are ongoing. Projects developed in the lab have been accepted for presentation at the 2020 Western Psychological Association (WPA) annual conference and the 2020 Society for Research on Adolescence (SRA) biannual conference. Mltiple projects have been submitted for consideration for the 2021 Society for Research on Child Development (SRCD) biannual conference. Projects are now in development for submission to the 2021 WPA annual conference as well. 
+
+Research Collaborations
+  - TRiO Talent Search at HSU
+  - McNair Scholars program at California State University Dominguez Hills
+  - Lifespan Development and Motivation Lab at University of California Irvin
 
 
 
 
-## Crowd-funded open-source software
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
 
-### [❤️ Click here to unlock rewards with sponsorship](https://wowchemy.com/plans/)
 
-## You're looking at a Wowchemy _widget_
-
-{{% callout note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
-
-Backgrounds can be applied to any section. Here, the *background* option is set give a *color gradient*.
-
-**To remove this section, delete `content/home/demo.md`.**
-{{% /callout %}}
-
-## Get inspired
-
-[Check out the Markdown files](https://github.com/wowchemy/starter-academic/tree/master/exampleSite) which power the [Academic Demo](https://academic-demo.netlify.app), or [view the showcase](https://wowchemy.com/user-stories/).
