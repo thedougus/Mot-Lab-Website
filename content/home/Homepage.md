@@ -68,7 +68,5 @@ Research projects for the 2020-2021 academic year are ongoing. Projects develope
   - McNair Scholars program at California State University Dominguez Hills
   - Lifespan Development and Motivation Lab at University of California Irvin
 
-[design.background]
-<img src="https://github.com/thedougus/Mot-Lab-Website/blob/master/assets/images/motivation_lab_fall_2019.jpg"
-     alt=""
-     style="float: center; margin-right: 30px;" />
+![design.background]("https://github.com/thedougus/Mot-Lab-Website/blob/master/assets/images/motivation_lab_fall_2019.jpg")
+   
