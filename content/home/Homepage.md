@@ -26,7 +26,7 @@ subtitle = "Department of Psychology - Humboldt State University - Arcata, CA"
   
   # Background gradient.
   gradient_start = "ForestGreen"
-  gradient_end = "DarkGreen"
+  gradient_end = "Green"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/media/`.
@@ -50,7 +50,7 @@ subtitle = "Department of Psychology - Humboldt State University - Arcata, CA"
  css_class = ""
 +++
 
-## Welcome to the Academic Motivation & Resilience Lab!
+## Welcome
 
 We are based in the intersection of developmental psychology, motivation, and education. Broadly, we study how students overcome various challenges in secondary and post-secondary education as they pursue and persist in educational goals. We focus on specific skills and strategies students use to attain difficult goals, like being the first in their family to go to college. Our lab is guided by students’ capacity for resilience and change as co-producers of their development
 
@@ -58,11 +58,11 @@ We are based in the intersection of developmental psychology, motivation, and ed
 
 Dr. Villarreal is a lifespan developmental psychologist with research interests in motivation and educational goal pursuit. She studies adolescents and young adults as they navigate the transition into adulthood, particularly through higher education. She has a special interest in motivational and self-regulatory strategies used by first-generation, low-income, and traditionally underrepresented students in academia including, but not limited to, Latinx, African-American, and Native American students.
 
-Partnerships & Projects
+## Partnerships & Projects
 
 Research projects for the 2020-2021 academic year are ongoing. Projects developed in the lab have been accepted for presentation at the 2020 Western Psychological Association (WPA) annual conference and the 2020 Society for Research on Adolescence (SRA) biannual conference. Mltiple projects have been submitted for consideration for the 2021 Society for Research on Child Development (SRCD) biannual conference. Projects are now in development for submission to the 2021 WPA annual conference as well. 
 
-Research Collaborations
+## Research Collaborations
 
   - TRiO Talent Search at HSU
   - McNair Scholars program at California State University Dominguez Hills
