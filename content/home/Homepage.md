@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "HSU Academic Motivation & Resilience Lab"
-subtitle = ""
+title = "Academic Motivation & Resilience Lab"
+subtitle = "Department of Psychology - Humboldt State University - Arcata, CA"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -22,7 +22,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  # color = "yellow"
   
   # Background gradient.
   gradient_start = "DarkGreen"
