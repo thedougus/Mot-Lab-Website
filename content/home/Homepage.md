@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Academic Template"
+title = "HSU Academic Motivation & Resilience Lab"
 subtitle = ""
 
 [design]
@@ -50,20 +50,17 @@ subtitle = ""
  css_class = ""
 +++
 
-## 👋 Welcome to the Academic Template
+## Welcome to the Academic Motivation & Resilience Lab!
 
-The Wowchemy **Academic Resumé Template** for Hugo empowers you to create your job-winning online resumé and showcase your academic publications.
+We are based in the intersection of developmental psychology, motivation, and education. Broadly, we study how students overcome various challenges in secondary and post-secondary education as they pursue and persist in educational goals. We focus on specific skills and strategies students use to attain difficult goals, like being the first in their family to go to college. Our lab is guided by students’ capacity for resilience and change as co-producers of their development
 
-[Check out the latest demo](https://academic-demo.netlify.app) of what you'll get in less than 10 minutes, or [view the showcase](https://wowchemy.com/user-stories/).
+# [Principal Investigator - Brandilynn Villarreal, Ph.D.](https://psychology.humboldt.edu/people/brandilynn-villarreal)
 
-[**Wowchemy**](https://wowchemy.com) makes it easy to create a beautiful website for free. Edit your site in Markdown, Jupyter, or RStudio (via Blogdown), generate it with Hugo, and deploy with GitHub or Netlify. Customize anything on your site with widgets, themes, and language packs.
+Dr. Villarreal is a lifespan developmental psychologist with research interests in motivation and educational goal pursuit. She studies adolescents and young adults as they navigate the transition into adulthood, particularly through higher education. She has a special interest in motivational and self-regulatory strategies used by first-generation, low-income, and traditionally underrepresented students in academia including, but not limited to, Latinx, African-American, and Native American students.
 
-- 👉 [**Get Started**](https://wowchemy.com/docs/install/)
-- 📚 [View the **documentation**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/update/) and [Release Notes](https://wowchemy.com/updates/)
+
+
+
 
 ## Crowd-funded open-source software
 
