@@ -26,7 +26,7 @@ subtitle = "Department of Psychology - Humboldt State University - Arcata, CA"
   
   # Background gradient.
   gradient_start = "ForestGreen"
-  gradient_end = "LightGreen"
+  gradient_end = "DarkGreen"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/media/`.
