@@ -50,7 +50,7 @@ subtitle = "Department of Psychology - Humboldt State University - Arcata, CA"
  css_class = ""
 +++
 
-## Welcome
+## Welcome!
 
 We are based in the intersection of developmental psychology, motivation, and education. Broadly, we study how students overcome various challenges in secondary and post-secondary education as they pursue and persist in educational goals. We focus on specific skills and strategies students use to attain difficult goals, like being the first in their family to go to college. Our lab is guided by students’ capacity for resilience and change as co-producers of their development
 
@@ -68,9 +68,4 @@ Research projects for the 2020-2021 academic year are ongoing. Projects develope
   - McNair Scholars program at California State University Dominguez Hills
   - Lifespan Development and Motivation Lab at University of California Irvin
 
-
-
-
-
-
-
+# image = "image.jpg"
