@@ -70,5 +70,5 @@ Research projects for the 2020-2021 academic year are ongoing. Projects develope
 
 [design.background]
 <img src="motivation_lab_fall_2019.jpg"
-     alt="Fall 2019 Lab Members"
-     style="float: left; margin-right: 10px;" />
+     alt=""
+     style="float: center; margin-right: 30px;" />
